@@ -14,8 +14,8 @@ This database provides **Middle Chinese phonetic transcriptions (Baxter-Sagart n
 
 In this repository, you will find the following files:
 
-* `phonoML_characters.csv`, with one line representing only one character/transcription match.
-* `phonoML_characters_oneLine.csv`, with one line representing one character and all of its matching transcriptions.
+* `phonoML_matches.csv`, with one line representing only one character/transcription match.
+* `phonoML_characters.csv`, with one line representing one character and all of its matching transcriptions.
 * `phonoML_transcriptions.csv`, with one line representing one transcription and all of its matching characters.
 
 The source code of the program used to build these tables is available in the [PHONO-ML software repository](https://gitlab.huma-num.fr/phono-ml/software).
