@@ -6,7 +6,7 @@ Project launched by Guillaume JACQUES\
 Software Engineer: Alexander DELAPORTE
 
 Centre de recherches linguistiques sur l'Asie orientale\
-CRLAO CNRS UMR 8563
+[CRLAO](https://crlao.cnrs.fr/) CNRS UMR 8563
 
 ## What is PHONO-ML Database?
 
