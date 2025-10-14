@@ -1,5 +1,7 @@
 # PHONO-ML Database
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17349142.svg)](https://doi.org/10.5281/zenodo.17349142)
+
 ## Authors
 
 Project launched by [Guillaume JACQUES](https://crlao.cnrs.fr/membres/guillaume-jacques/)\
