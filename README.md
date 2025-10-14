@@ -10,7 +10,7 @@ Centre de recherches linguistiques sur l'Asie orientale\
 
 ## What is PHONO-ML Database?
 
-This database provides **Middle Chinese phonetic transcriptions (Baxter-Sagart notation) for a set of 26 224 character/transcription pairs, or 20 276 characters**.
+This database provides **Middle Chinese phonetic transcriptions (Baxter-[Sagart](https://crlao.cnrs.fr/membres/laurent-sagart/) notation) for a set of 26 224 character/transcription pairs, or 20 276 characters**.
 
 In this repository, you will find the following files:
 
